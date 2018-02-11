@@ -9,6 +9,11 @@ Bilgi Toplama Aracı | Information Collection Tool
 * Zone Transfer
 * TCP Port Tarama
 
+## Kurulum
+
+`git clone https://github.com/delosemre/delos-bilgi-toplama.git` <br>
+`cd delos-bilgi-toplama` <br>
+`python delos-bilgi-toplama`
 
 ## Ekran Görüntüsü
 ![](https://raw.githubusercontent.com/delosemre/delos-bilgi-toplama/master/ekran_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg)
